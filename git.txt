@@ -1,0 +1,51 @@
+GIT
+	Registro de cambios
+	comparar versiones
+	recuperar versiones
+	permite que una o varias personas desarrollen cambios
+
+Version
+	Mercurial
+	Subversion (SVN)
+	GIT
+	Team Fundation Server
+
+Velocidad
+diseño sencillo
+Miles de ramas paralelas
+completamente distribuido
+capaz de manejar proyectos grandes
+
+Caracteristicas de GIT
+	Rapidez en la gestion d ramas
+	Aislamiento de ramas
+	Ggestion distribuida no centralizada
+	Gestion eficiente en proyectos grandes (Pull request y forking - autorización para incluir cambios)
+	Realmacenamiento periodico en paquetes
+	Compatibilidad con protocolos (HTTPS, SSH)
+	Open Source
+	Solución prácticamente gratuita para equipos pequeños
+	Compatible con todas las herramientas de integración continua modernas
+
+
+SCM (Sistemas de control de versiones) tradicionales
+
+Tres estados de GIT
+	Confirmado (Commited)
+		Almacenado 
+	Modificado (Modified)
+	Preparadao (Staged)
+	Sin seguimiento (Untracked)
+
+1. Obtner ultima version
+2. Agregar o quitar archivos
+3. Preparación de archivos
+4. Confirmación a travez de un commit
+5. Push, se sincroniza con el servidor 
+
+Implementaciones de Git
+	GitHub
+	GitLab
+	Bitbucket
+	Codding
+
