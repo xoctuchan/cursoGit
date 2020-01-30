@@ -49,3 +49,34 @@ Implementaciones de Git
 	Bitbucket
 	Codding
 
+Repositorio
+	Carpeta donde se ubican los archivos
+
+Commit
+	Fotografia de como estan los archivos, cuenta huella criptografica unica
+
+Branch
+	Serie de commits consecutivos, siempre apunta al commit más reciente
+
+
+git config --global user.name "nombreapellido"
+
+
+* ir a carpeta Vacia 
+* click derecho GIT Bash here
+
+git status
+git add git.txt
+git commit -m "primer commit"
+git branch
+git branch --all
+git fetch 	(Descargar de master a una rama)
+git pull    (Descargar de master y hace merge )
+git push    (Subir cambios)
+
+
+GUI GIT CLIENT
+	GitKraken
+	SourceTree
+	GitHub Desktop
+	
