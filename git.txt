@@ -90,3 +90,6 @@ git remote show
 git remote remove <name>
 git remote add origin https://github.com/xoctuchan/cursoGit.git
 git push -u origin master
+
+git log
+git show e2408ae5892522d222315ab65e2cee21dbdaf095
