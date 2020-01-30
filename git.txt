@@ -96,3 +96,4 @@ git show e2408ae5892522d222315ab65e2cee21dbdaf095
 
 
 cambio desde archivo de la maquina
+modificacion desde navegador.
