@@ -94,6 +94,15 @@ git push -u origin master
 git log
 git show e2408ae5892522d222315ab65e2cee21dbdaf095
 
+--obtiene los datos del remote server
+git pull
+
+.gitignore
+	.log
+	.exe
+	.node
+	carpetas IDE
+	.txt
 
 cambio desde archivo de la maquina
 modificacion desde navegador.
