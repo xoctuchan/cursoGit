@@ -80,3 +80,11 @@ GUI GIT CLIENT
 	SourceTree
 	GitHub Desktop
 	
+git init
+git status
+git add git.txt
+git commit -m "Primer commit"
+git remote show
+git remote remove <name>
+git remote add origin https://github.com/xoctuchan/cursoGit.git
+git push -u origin master
